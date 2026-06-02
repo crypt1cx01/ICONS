@@ -2,4 +2,4 @@
 
 > Curated list of icons to be used in Github READMEs and which looks good across all platforms.
 > 
-## Free Icons For Your Readme File Enjoy
+## Free Icons For Your Readme File
